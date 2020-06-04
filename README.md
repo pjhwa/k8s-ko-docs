@@ -1,29 +1,11 @@
-# Kubernetes Template Project
+# 쿠버네티스 문서 한글화 프로젝트
 
-The Kubernetes Template Project is a template for starting new projects in the GitHub organizations owned by Kubernetes. All Kubernetes projects, at minimum, must have the following files:
+쿠버네티스 문서 중 일부 문서에 대해 한글화한 것들을 게시한다.
 
-- a `README.md` outlining the project goals, sponsoring sig, and community contact information
-- an `OWNERS` with the project leads listed as approvers ([docs on `OWNERS` files][owners])
-- a `CONTRIBUTING.md` outlining how to contribute to the project
-- an unmodified copy of `code-of-conduct.md` from this repo, which outlines community behavior and the consequences of breaking the code
-- a `LICENSE` which must be Apache 2.0 for code projects, or [Creative Commons 4.0] for documentation repositories, without any custom content
-- a `SECURITY_CONTACTS` with the contact points for the Product Security Team 
-  to reach out to for triaging and handling of incoming issues. They must agree to abide by the
-  [Embargo Policy](https://git.k8s.io/security/private-distributors-list.md#embargo-policy)
-  and will be removed and replaced if they violate that agreement.
+## 커뮤니티, 토론, 기여 및 지원
 
-## Community, discussion, contribution, and support
+- 한글화팀 [슬랙](http://slack.k8s.io/) 채널 [#kubernetes-docs-ko](https://kubernetes.slack.com/archives/CA1MMR86S)
 
-Learn how to engage with the Kubernetes community on the [community page](http://kubernetes.io/community/).
+### 행동 강령
 
-You can reach the maintainers of this project at:
-
-- [Slack](http://slack.k8s.io/)
-- [Mailing List](https://groups.google.com/forum/#!forum/kubernetes-dev)
-
-### Code of conduct
-
-Participation in the Kubernetes community is governed by the [Kubernetes Code of Conduct](code-of-conduct.md).
-
-[owners]: https://git.k8s.io/community/contributors/guide/owners.md
-[Creative Commons 4.0]: https://git.k8s.io/website/LICENSE
+[CNCF 커뮤니티 행동 강령](https://github.com/cncf/foundation/blob/master/code-of-conduct-languages/ko.md)
