@@ -198,7 +198,7 @@
    -> 참고하길 바란다 / 본다 / 참고한다 / 참조한다
    - 사용하라<br>
    -> 사용하자 / 사용한다
-   - 참고: [쿠버네티스 문서 한글화 가이드](https://kubernetes.io/ko/docs/contribute/localization_ko/##문체-가이드)
+   - 참고: [쿠버네티스 문서 한글화 가이드: 문체 가이드](https://kubernetes.io/ko/docs/contribute/localization_ko/##문체-가이드)
 
 
 1. ‘set’의 경우 기존 문서에서 ‘집합’으로 명시하고 있기 때문에 집합으로 번역하는 것을 추천드립니다.
@@ -228,7 +228,7 @@
 
 
 1. .md 파일 내의 상단 reveiwers 내용은 현재 PR 내용을 검토할 upStream의 reviewers에 대한 내용으로, 한글화 작업에서는 삭제하고 진행하고 있습니다. 따라서 해당 부분은 삭제가 필요합니다.
-   - 참고: [쿠버네티스 문서 한글화 가이드](https://kubernetes.io/ko/docs/contribute/localization_ko/#리뷰어-삭제)
+   - 참고: [쿠버네티스 문서 한글화 가이드: 리뷰어 삭제](https://kubernetes.io/ko/docs/contribute/localization_ko/#리뷰어-삭제)
 
 
 1. 마크업 문법이 적용된 단어의 경우, 사용자가 영문 그대로 사용할 확률이 높기 때문에 원문 유지부탁드립니다.
@@ -236,7 +236,7 @@
 
 
 1. 원문과 동일한 형식을 유지하여 나중에 유지 보수의 편의성을 위해 원문에 맞춰 줄바꿈이 필요합니다.
-   - 참고: [쿠버네티스 문서 한글화 가이드](https://kubernetes.io/ko/docs/contribute/localization_ko/#가로폭은-원문을-따름)
+   - 참고: [쿠버네티스 문서 한글화 가이드: 가로폭은 원문을 따름](https://kubernetes.io/ko/docs/contribute/localization_ko/#가로폭은-원문을-따름)
 
 
 1. 수동 표현을 능동 표현으로 변경하는 것을 추천드립니다.
