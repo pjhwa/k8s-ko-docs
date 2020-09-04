@@ -14,3 +14,9 @@
 ### 행동 강령
 
 [CNCF 커뮤니티 행동 강령](https://github.com/cncf/foundation/blob/master/code-of-conduct-languages/ko.md)
+
+### 참고 사이트
+
+- [국립국어원](https://www.korean.go.kr/)
+- [표준 외래어](https://zetawiki.com/wiki/표준외래어표기)
+- [맞춤법 검사기](https://speller.cs.pusan.ac.kr/)
