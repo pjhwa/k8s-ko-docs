@@ -5,6 +5,7 @@
 ## 번역/한글화 문서
 
 - [CLA.ko.md](CLA.ko.md) : [CLA.md](https://github.com/kubernetes/community/blob/master/CLA.md) 파일의 번역
+- [CLA-sign.md](CLA-sign.md) : CLA 서명 시 참고 사항
 - [translation-rules.md](translation-rules.md) : 문서 번역 시 참고할 내용을 담고 있다
 
 ## 커뮤니티, 토론, 기여 및 지원
