@@ -5,7 +5,7 @@ CLA에 서명하지 않은 기여자의 풀 리퀘스트(pull request)는 자동
 
 * [기여자 가이드](https://github.com/kubernetes/community/blob/master/contributors/guide/README.md)
 * [기여자 라이선스 계약(CLA)에 서명(원문)](https://github.com/kubernetes/community/blob/master/CLA.md)
-* [기여자 라이선스 계약(CLA)에 서명(한글)](CLA-ko.md)
+* [기여자 라이선스 계약(CLA)에 서명(한글)](https://github.com/pjhwa/k8s-ko-docs/CLA-ko.md)
 
 ## CLA 서명
 
