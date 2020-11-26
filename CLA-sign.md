@@ -1,6 +1,6 @@
 # Contributor License Agreement (CLA)
 
-모든 쿠버네티스 기여자는 반드시 '기여자 가이드'를 읽고 '기여자 라이선스 계약(CLA)에 서명해야 합니다.
+모든 쿠버네티스 기여자는 반드시 '기여자 가이드'를 읽고 '기여자 라이선스 계약(CLA)에 서명'해야 합니다.
 CLA에 서명하지 않은 기여자의 풀 리퀘스트(pull request)는 자동 테스트에 실패하며, 서명 전까지는 리뷰 절차가 진행되지 않습니다.
 
 * [기여자 가이드](https://github.com/kubernetes/community/blob/master/contributors/guide/README.md)
@@ -19,6 +19,10 @@ CLA 서명 시 사용하는 이메일 주소는 모두 동일해야 합니다. (
 만일 PR을 이미 제출하였다면, 아래의 단계로 PR을 수정할 수 있습니다.
 
 1. `user.name`와 `user.email`을 수정
+```
+$ git config --global user.name "Gildong Hong"
+$ git config --global user.email gildong.hong@email.com
+```
 2. `git commit --amend --reset-author` 실행
 3. `git push --force` 실행
 
